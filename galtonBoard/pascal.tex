@@ -3,8 +3,10 @@
 \usepackage{tikz}
 \begin{document}
 \begin{tikzpicture}
-    \foreach \x in {1,2,3,...,10}{
-        \foreach \y in {1}
+    \foreach \x in {0,1,2,...,10}{
+        \foreach \y in {0,1}{
+            \filldraw (\x,0.87*\y) circle [radius=2mm];
+        }
     }
 \end{tikzpicture}
 \end{document}
