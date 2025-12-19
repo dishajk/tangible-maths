@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[      9790,        229]
+NotebookDataLength[      9788,        229]
 NotebookOptionsPosition[      9445,        215]
-NotebookOutlinePosition[      9836,        231]
-CellTagsIndexPosition[      9793,        228]
+NotebookOutlinePosition[      9834,        231]
+CellTagsIndexPosition[      9791,        228]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -213,7 +213,7 @@ HennebergSurface.stl\>\"", ",", "output"}], "]"}]}], "Input",
    3.974785682802359*^9}},ExpressionUUID->"7ae8242e-0247-4e05-8607-\
 938cffafa8ab"]
 },
-WindowSize->{1024.5, 528},
+WindowSize->{1020, 528},
 WindowMargins->{{0, Automatic}, {Automatic, 0}},
 FrontEndVersion->"13.3 for Linux x86 (64-bit) (July 24, 2023)",
 StyleDefinitions->"Default.nb",
